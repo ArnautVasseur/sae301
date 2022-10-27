@@ -1,0 +1,1 @@
+import{_ as o}from"./Montre.vue_vue_type_script_setup_true_lang.d58fa65c.js";import{d as n,o as a,h as r}from"./index.af190598.js";const _=n({__name:"[id]",props:{id:null},setup(e){return(t,i)=>(a(),r(o,{id:e.id},null,8,["id"]))}});export{_ as default};
